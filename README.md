@@ -2,17 +2,7 @@
 
 A modular humanoid robot.
 
-<details><summary>testing multiple collapsed segments</summary>
-  I just want to know if this works
-  <details><summary>testing level 2</summary>
-    So we can explain in more and more detail
-    <details><summary>testing level 3</summary>
-      To give the user an in-depth look if you pardon my pun
-    </details>
-  </details>
-</details>
-
-<details><summary>External SOftware Used</summary>
+<details><summary>External Software Used</summary>
   It's the goal to stick with FOSS applications as much as possible.
   The mechanics and modules are designed in FreeCAD.
   Shells will be created using FreeCAD and Blender.
